@@ -1,0 +1,15 @@
+.im-html {
+    height: 50%; 
+    width: 50%;
+}
+
+.im-body {
+    height: 100%; 
+    margin: 0;
+    display: block;
+}
+
+.im-grafico {
+    height: 100%;
+    display: block;
+}
